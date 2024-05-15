@@ -1,16 +1,15 @@
 # Olá! Eu sou Ramon 👋
 
-Bem-vindo ao meu perfil. Nas informações a seguir, é possível encontrar algumas especificações das ferramentas que uso no meu dia a dia e os tópicos que estou estudando no momento.
+###Bem-vindo ao meu perfil. Nas informações a seguir, é possível encontrar algumas especificações das ferramentas que uso no meu dia a dia e os tópicos que estou estudando no momento.
 
 ## ferramentas usuais:
 
 - **Linguagens**: 
-
-  - ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-  - ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
-  - ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=java)
-  - ![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=html5)
-  - ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=css3)
+   ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+   ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+   ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
+   ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+   ![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
 
 - **Ferramentas de Desenvolvimento**:
 
