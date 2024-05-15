@@ -1,6 +1,6 @@
 # Olá! Eu sou Ramon 👋
 
-###Bem-vindo ao meu perfil. Nas informações a seguir, é possível encontrar algumas especificações das ferramentas que uso no meu dia a dia e os tópicos que estou estudando no momento.###
+### Bem-vindo ao meu perfil. Nas informações a seguir, é possível encontrar algumas especificações das ferramentas que uso no meu dia a dia e os tópicos que estou estudando no momento.
 
 ## ferramentas usuais:
 
@@ -13,7 +13,7 @@
 
 - **Ferramentas de Desenvolvimento**:
 
-  - ![VS Code](https://img.shields.io/badge/-VS%20Code-333333?style=flat&logo=visual-studio-code)
+  - ![VS Code]()
   - ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
 
 ## Estudando no momento
