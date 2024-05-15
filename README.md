@@ -1,6 +1,6 @@
 # Olá! Eu sou Ramon 👋
 
-###Bem-vindo ao meu perfil. Nas informações a seguir, é possível encontrar algumas especificações das ferramentas que uso no meu dia a dia e os tópicos que estou estudando no momento.
+###Bem-vindo ao meu perfil. Nas informações a seguir, é possível encontrar algumas especificações das ferramentas que uso no meu dia a dia e os tópicos que estou estudando no momento.###
 
 ## ferramentas usuais:
 
