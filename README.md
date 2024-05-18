@@ -25,10 +25,10 @@
 ![ReactNative](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
-<div align="right"><img height="360" src="https://github.com/ramon06dev/ramon06dev/assets/169840940/5d86bbde-90ac-495c-96df-75e3a28b023c"/></div>
 
 
- 
+
+
  
 
 
