@@ -1,28 +1,13 @@
 # Olá! Eu me chamo Ramon Silva👋
 
+
+
 <div>
-    <a href="https://beacons.ai/?username-ramon06dev">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username-ramon06dev&show_icons-truestheme dark&include_all_commits-true&count_private-true"/> 
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username-ramon06dev&layout-compact&langs_count=16&theme-dark"/>
+    <a href="https://beacons.ai/ramon06dev">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ramon06dev&show_icons-true&theme=dark&include_all_commits=true&count_private=true"/> 
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramon06dev&layout=compact&langs_count=16&theme=dark"/>
     </a>
 </div>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
    ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
    ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -30,4 +15,9 @@
    ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
    ![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
 
+### Estudando no momento 
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![ReactNative](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
  
