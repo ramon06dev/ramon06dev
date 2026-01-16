@@ -1,6 +1,6 @@
 # Olá! Eu me chamo Ramon Silva 👋
 
->Atualmente sou estudante no curso Técnico de Informática na EEEP Edson Queiroz 3/3
+>Atualmente sou estudante no curso de Ciência da Computação na universidade Farias Brito
 
 >Gosto bastante de desing e desenvolvimento Web
 
